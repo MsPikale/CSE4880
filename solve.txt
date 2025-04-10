@@ -1,0 +1,11 @@
+Steps to Solve:
+    Download image file from google drive link: https://drive.google.com/file/d/1ZshzRwMSDno0Oawui4ManbhfvyzcvndS/view?usp=sharing
+    run "tar -xvzf CSE4880Win7.tar.gz" to extract file
+    Open autopsy
+    Create a case file
+    Import CSE4880Win7.raw into case
+    Navigate to "C:\Program Files\Windows NT\TableTextService\en-US"
+    Extract france.jpg
+    Run "exiftool france.jpg"
+
+    flag{1_surr3nd3r_s1r3_:(}
